@@ -1,17 +1,17 @@
 # Проект угадай число 
 
 ## Оглавление 
-[1. Описание проекта](https://github.com/ilyaKo2020/Data_Science/blob/main/.md#Описание-проекта)
+[1. Описание проекта](https://github.com/ilyaKo2020/Data_Science/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/ilyaKo2020/Data_Science/blob/main/.md#Какой-кейс-решаем) 
+[2. Какой кейс решаем](https://github.com/ilyaKo2020/Data_Science/blob/main/README.md#Какой-кейс-решаем) 
 
-[3. Краткая информация о данных](https://github.com/ilyaKo2020/Data_Science/blob/main/.md#)
+[3. Краткая информация о данных](https://github.com/ilyaKo2020/Data_Science/blob/main/README.md#Условия-соревнования)
 
-[4. Этап работы над проектом](https://github.com/ilyaKo2020/Data_Scienc/blob/main/.md#)
+[4. Этап работы над проектом](https://github.com/ilyaKo2020/Data_Scienc/blob/main/README.md#)
 
-[5. Резкльтаты работы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/.md#)
+[5. Резкльтаты работы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/README.md#)
 
-[6. Выводы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/.md#)
+[6. Выводы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/README.md#)
 #не хватает в каждой ссылке указание папки 
 
 ## Описание проекта 
@@ -35,4 +35,4 @@
 ### Краткая информация о данных
 .....
 
-:arrow_up:[К оглавлению](https://github.com/ilyaKo2020/Data_Scienc/md#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/ilyaKo2020/Data_Scienc/README.md#Оглавление)
