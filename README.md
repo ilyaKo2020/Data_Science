@@ -12,7 +12,7 @@
 [5. Резкльтаты работы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/README.md#)
 
 [6. Выводы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/README.md#)
-#не хватает в каждой ссылке указание папки 
+
 
 ## Описание проекта 
 Угадать заданное компьютером число за минимальное число попыток.
