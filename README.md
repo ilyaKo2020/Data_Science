@@ -11,7 +11,7 @@
 
 [5. Резкльтаты работы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/README.md#)
 
-[6. Выводы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/README.md#)
+[6. Выводы](https://github.com/ilyaKo2020/Data_Scienc/blob/main/README.md#Вывод)
 
 
 ## Описание проекта 
