@@ -5,7 +5,7 @@
 import numpy as np
 
 
-def random_predict(number: int = 1) -> int:
+def random_predict(number: int = 5) -> int:
     """Рандомно угадываем число
 
     Args:
@@ -34,7 +34,7 @@ def random_predict(number: int = 1) -> int:
 
 
 def score_game(random_predict) -> int:
-    """За какое количство попыток в среднем за 1000 подходов угадывает наш алгоритм
+    """За какое количство попыток в среднем за 1000 запусков угадывает наш алгоритм
 
     Args:
         random_predict ([type]): функция угадывания
