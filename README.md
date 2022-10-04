@@ -1,13 +1,16 @@
 # Junior Data Analyst
 # Ключевые компетенции
 1. Phyton 3.9.7
-2. NumPy
-3. Pandas
-4. Визуализация: matplotlib.pyplot, Seaborn, Plotly.express 
-5. Очистка данных (поиск аномалий, пропусков, выбросов, дубликатов)
-6. ООП
-7. Работа с файлами: Exsel,CSV,JSON
-8. Преобразование данных
+2. SQL (PostgreSQL)
+3. Metabase
+4. NumPy
+5. Pandas
+6. Визуализация: matplotlib.pyplot, Seaborn, Plotly.express 
+7. Очистка данных (поиск аномалий, пропусков, выбросов, дубликатов)
+8. ООП
+9. Работа с файлами: Exsel,CSV,JSON
+10. Преобразование данных
+
 
 ## Дополнительные инструменты
 1. GitHub
