@@ -13,10 +13,10 @@
 - данные об отраслях
 
 ### Используемый стек: 
-- ### диалект языка SQL PostgreSQL
-- ### библиотека для работы python с СУБД PostgreSQL - psycopg2
-- ### pandas 
-- ### plotly.express
+- диалект языка SQL PostgreSQL
+- библиотека для работы python с СУБД PostgreSQL - psycopg2
+- pandas 
+- plotly.express
 
 ## Этапы работы
 - Предварительный анализ данных
