@@ -2,14 +2,14 @@
 # Ключевые компетенции
 1. Phyton 3.9.7
 2. SQL (PostgreSQL)
-3. Metabase
+3. Power BI
 4. NumPy
 5. Pandas
-6. Визуализация: matplotlib.pyplot, Seaborn, Plotly.express 
+6. matplotlib, Seaborn, plotly 
 7. Очистка данных (поиск аномалий, пропусков, выбросов, дубликатов)
 8. ООП
 9. Работа с файлами: Exsel,CSV,JSON
-10. Преобразование данных
+10.Преобразование данных
 
 
 ## Дополнительные инструменты
