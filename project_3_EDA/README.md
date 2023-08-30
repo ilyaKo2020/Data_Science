@@ -1,16 +1,11 @@
 # Проект по EDA и построению предсказательной модели
 
 ## Оглавление 
-[1. Описание проекта](https://github.com/ilyaKo2020/Data_Science#readme.md#Описание-проекта)
+[1. Описание проекта](https://github.com/ilyaKo2020/Data_Science#readme.md##Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/ilyaKo2020/Data_Science#readme.md#Какой-кейс-решаем) 
+[2. Какой кейс решаем](https://github.com/ilyaKo2020/Data_Science#readme.md###Какой-кейс-решаем) 
 
 [3. Краткая информация о данных](https://github.com/ilyaKo2020/Data_Science#readme.md#Краткая-информация-о-данных)
-
-[4. Этап работы над проектом](https://github.com/ilyaKo2020/Data_Science#readme.md#Этапы-работы-над-проектом)
-
-[5. Результаты работы](https://github.com/ilyaKo2020/Data_Science#readme.md#Результаты-работы)
-
 
 ## Описание проекта 
  Компания Booking хочет построить модель, которая бы предсказывала рейтиг отеля исходя из его данных. Задача компании - выявление отелей, рейтинг которых завышен.
